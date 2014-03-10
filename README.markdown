@@ -1,11 +1,10 @@
 # Modified Arduino Print.cpp
 
-Modification to Arduino Print.cpp to provide Serial.print and
-Serial.println with uint64_t and int64_t.
+Modified Arduino 1.0.5 Print.cpp with support for 64-bit int print
 
-### Origin
+### Thanks
 
-All code by Arduino Forums and all respect and thank to appropriate people.
+Thanks to Arduino forums
 
 [http://forum.arduino.cc/index.php/topic,143584.0.html](http://forum.arduino.cc/index.php/topic,143584.0.html)
 
